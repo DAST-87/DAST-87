@@ -18,4 +18,5 @@
   <img align="center" alt="Davisson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
+ ![Snake animation](https://github.com/DAST-87/DAST-87/blob/output/github-contribution-grid-snake.svg)
 
