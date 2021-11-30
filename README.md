@@ -1,7 +1,5 @@
-### Olá
+### Estudante de Sistemas para Internet
 
-- 🔭 No momento estou trabalhando em Front-End
-- 🌱 Estou aprendendo JavaScript
 
 <div align="">
   <a href="https://github.com/DAST-87">
